@@ -8,7 +8,8 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "clean-cache": "rm -rf .angular/cache"
+    "clean-cache": "rm -rf .angular/cache",
+    "build-prod": "ng build --configuration production"
   },
   "private": true,
   "dependencies": {
