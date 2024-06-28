@@ -1,4 +1,4 @@
-# AppHeroes
+# Heroes App
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0.
 
@@ -25,3 +25,15 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/main/README.md).
+
+## Synchronized Repositories
+
+This repository is synchronized with the following repository:
+
+- [Bitbucket](https://bitbucket.org/angularjreategui/9.-app-heroes/src/main/)
+
+## Remote Configuration
+
+```sh
+git remote add bitbucket git@bitbucket.org:angularjreategui/9.-app-heroes.git
+```
